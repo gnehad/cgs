@@ -1,0 +1,16 @@
+<form action="student" method="post">
+    <label>Identifiant de l'étudiant: </label>
+    <input type="text" name="studentId" required><br>
+    <label>Nom :</label>
+    <input type="text" name="lastName" required><br>
+    <label>Prénom :</label>
+    <input type="text" name="firstName" required><br>
+    <label>Adresse :</label>
+    <input type="text" name="lastName" required><br>
+    <label>Ville :</label>
+    <input type="text" name="lastName" required><br>
+    <label>&nbsp;</label>
+    <input type="submit" value="Ajouter" id="submit">
+    <input type="restet" value="Effacer" id="reset">
+    <br> 
+</form>
